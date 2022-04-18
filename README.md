@@ -3,7 +3,7 @@ I am making this repo so that I can keep track on my learning and keep the notes
 
 
 I'm taking help from  
-[title](https://www.example.com)
+
  1. [DevOps Beginners to Advanced | Decoding DevOps with Projects](https://udemy.com/course/decodingdevops)
  2. [90 days of DevOps by Michael Cade  ](https://github.com/MichaelCade/90DaysOfDevOps)
 
